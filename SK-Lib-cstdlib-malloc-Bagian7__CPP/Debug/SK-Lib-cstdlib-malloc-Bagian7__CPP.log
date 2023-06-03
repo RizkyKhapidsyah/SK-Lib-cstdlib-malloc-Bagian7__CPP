@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdlib-malloc-Bagian7__CPP\SK-Lib-cstdlib-malloc-Bagian7__CPP\Source.cpp(20,22): error C2039: 'construct_at': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(24,1): message : see declaration of 'std'
+D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdlib-malloc-Bagian7__CPP\SK-Lib-cstdlib-malloc-Bagian7__CPP\Source.cpp(20,34): error C3861: 'construct_at': identifier not found
+D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdlib-malloc-Bagian7__CPP\SK-Lib-cstdlib-malloc-Bagian7__CPP\Source.cpp(27,18): error C2039: 'destroy_n': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string(24,1): message : see declaration of 'std'
+D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdlib-malloc-Bagian7__CPP\SK-Lib-cstdlib-malloc-Bagian7__CPP\Source.cpp(27,27): error C3861: 'destroy_n': identifier not found
